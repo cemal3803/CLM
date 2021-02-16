@@ -1,0 +1,1 @@
+((11 or 21) and (-11 or -21) or (12 or 22) and (-12 or -22) or (13 or 23) and (-13 or -23) or (14 or 24) and (-14 or -24) )
